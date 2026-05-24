@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36">
+  <diagram name="Страница — 1" id="7n8yDVUpiadxbUngmkJq">
+    <mxGraphModel dx="1414" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iEJe4rI5ND3-3Q122M6X-5" edge="1" parent="1" source="HsBaO7kwY9-8XU-Jdnv6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iEJe4rI5ND3-3Q122M6X-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iEJe4rI5ND3-3Q122M6X-7" edge="1" parent="1" source="HsBaO7kwY9-8XU-Jdnv6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iEJe4rI5ND3-3Q122M6X-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iEJe4rI5ND3-3Q122M6X-10" edge="1" parent="1" source="HsBaO7kwY9-8XU-Jdnv6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="iEJe4rI5ND3-3Q122M6X-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HsBaO7kwY9-8XU-Jdnv6-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="interactive items" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iEJe4rI5ND3-3Q122M6X-3" edge="1" parent="1" source="iEJe4rI5ND3-3Q122M6X-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iEJe4rI5ND3-3Q122M6X-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iEJe4rI5ND3-3Q122M6X-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="grabable" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="iEJe4rI5ND3-3Q122M6X-9" edge="1" parent="1" source="iEJe4rI5ND3-3Q122M6X-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iEJe4rI5ND3-3Q122M6X-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iEJe4rI5ND3-3Q122M6X-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="inspectable" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="iEJe4rI5ND3-3Q122M6X-4" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="movable" vertex="1">
+          <mxGeometry height="60" width="120" x="294" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="iEJe4rI5ND3-3Q122M6X-6" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="pressable" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="iEJe4rI5ND3-3Q122M6X-8" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="slotPlaceable" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="350" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
