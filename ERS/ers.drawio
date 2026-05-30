@@ -244,19 +244,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mhT7s1CRodAS_VgzVdUx-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="slots" vertex="1">
-          <mxGeometry height="60" width="120" x="1190" y="1740" as="geometry" />
+          <mxGeometry height="60" width="120" x="1180" y="1740" as="geometry" />
         </mxCell>
         <mxCell id="mhT7s1CRodAS_VgzVdUx-7" edge="1" parent="1" source="mhT7s1CRodAS_VgzVdUx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mhT7s1CRodAS_VgzVdUx-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mhT7s1CRodAS_VgzVdUx-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="slotsContainer" vertex="1">
-          <mxGeometry height="60" width="120" x="1040" y="1660" as="geometry" />
+          <mxGeometry height="60" width="120" x="1040" y="1650" as="geometry" />
         </mxCell>
         <mxCell id="mhT7s1CRodAS_VgzVdUx-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="area3d" vertex="1">
-          <mxGeometry height="60" width="120" x="1340" y="1820" as="geometry" />
+          <mxGeometry height="60" width="120" x="1330" y="1820" as="geometry" />
         </mxCell>
         <mxCell id="mhT7s1CRodAS_VgzVdUx-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="marker3d" vertex="1">
-          <mxGeometry height="60" width="120" x="1340" y="1920" as="geometry" />
+          <mxGeometry height="60" width="120" x="1330" y="1920" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
